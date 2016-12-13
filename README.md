@@ -1,5 +1,3 @@
 # hello-world
 
-
-Hi nobody,
-this is my commit message to describe the changes which are going to be done via this commit. 
+Hier wurde einfach mal wieder sinnlos etwas gelöscht. Aber vorher gab es auch keinen Sinn. Die Änderung wurde in der Branch Blub gemacht. Diese wird demnächst gelöscht.
